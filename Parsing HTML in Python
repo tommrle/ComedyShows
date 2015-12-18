@@ -1,0 +1,10 @@
+Parsing HTML in Python
+
+#Using BeautifulSoup is by far the best way I have found.
+
+#import statement:
+from bs4 import BeautifulSoup
+#If you dont have bs4, run this from the command line
+easy_install bs4
+
+

@@ -1,0 +1,1181 @@
+{
+  "py/object": "ShowObject.show",
+  "theater": "Chicago Mainstage",
+  "title": "The Second City's 104th Revue: Fool Me Twice, Déjà Vu",
+  "imageUrl": "img/The Second City's 104th Revue: Fool Me Twice, Déjà Vu",
+  "buy_url": "fake",
+  "descrip": "Fool Me Twice, Deja Vu takes you on an uproarious exploration of intuition. Have you been here befo...",
+  "show_times": [
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "15",
+      "show_month": "Dec",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=406139",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "18",
+      "show_month": "Dec",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413528",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "19",
+      "show_month": "Dec",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=410410",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "20",
+      "show_month": "Dec",
+      "show_time": "10:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=425202",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "22",
+      "show_month": "Dec",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=425203",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "23",
+      "show_month": "Dec",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=425204",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "26",
+      "show_month": "Dec",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413533",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "27",
+      "show_month": "Dec",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413534",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "27",
+      "show_month": "Dec",
+      "show_time": "10:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=419506",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "29",
+      "show_month": "Dec",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=419507",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "30",
+      "show_month": "Dec",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=419508",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "31",
+      "show_month": "Dec",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=420304",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "1",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413253",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "1",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413254",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413255",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413256",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "3",
+      "show_month": "Jan",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413258",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "5",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413259",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "6",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413260",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "7",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413261",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "8",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413262",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "8",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413263",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "9",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413264",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "9",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413265",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "10",
+      "show_month": "Jan",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413266",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "12",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413268",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "13",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413269",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "14",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413270",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "15",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413271",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "15",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413272",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "16",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413273",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "16",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413274",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "17",
+      "show_month": "Jan",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413275",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "19",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413276",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "20",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413277",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "21",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413347",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "22",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413348",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "22",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413349",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "23",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413350",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "23",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413351",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "24",
+      "show_month": "Jan",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413352",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "26",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413353",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "27",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413354",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "28",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413355",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "29",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413356",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "29",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413357",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "30",
+      "show_month": "Jan",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413358",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "30",
+      "show_month": "Jan",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413359",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "31",
+      "show_month": "Jan",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413360",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413362",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "3",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413363",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "4",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413364",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "5",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413365",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "5",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413366",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "6",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413367",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "6",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413368",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "7",
+      "show_month": "Feb",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413369",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "9",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413370",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "10",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413371",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "11",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413372",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "12",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413375",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "12",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413376",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "13",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413377",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "13",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413378",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "14",
+      "show_month": "Feb",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413379",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "16",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413380",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "17",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413381",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "18",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413382",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "19",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413383",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "19",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413384",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "20",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413385",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "20",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413386",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "21",
+      "show_month": "Feb",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413387",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "23",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413388",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "24",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413391",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "25",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413389",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "26",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413392",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "26",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413393",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "27",
+      "show_month": "Feb",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413394",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "27",
+      "show_month": "Feb",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413395",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "28",
+      "show_month": "Feb",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413488",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "1",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413489",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413490",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "3",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413491",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "4",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413492",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "4",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413493",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "5",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413494",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "5",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413495",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "6",
+      "show_month": "Mar",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413496",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "8",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413497",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "9",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413498",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "10",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413499",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "11",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413373",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "11",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413374",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "12",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413500",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "12",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413501",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "13",
+      "show_month": "Mar",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413502",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "15",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413503",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "16",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413504",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "17",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413505",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "18",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413507",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "18",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413508",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "19",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413509",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "19",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413510",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "20",
+      "show_month": "Mar",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413511",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "22",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413512",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "23",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413513",
+      "show_day_of_week": "Wed"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "24",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413514",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "25",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413515",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "25",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413516",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "26",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413517",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "26",
+      "show_month": "Mar",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413518",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "27",
+      "show_month": "Mar",
+      "show_time": "7:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413519",
+      "show_day_of_week": "Sun"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "29",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413520",
+      "show_day_of_week": "Tue"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "31",
+      "show_month": "Mar",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=413522",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "1",
+      "show_month": "Apr",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=411927",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Apr",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=424851",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "15",
+      "show_month": "Apr",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=404915",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "16",
+      "show_month": "Apr",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=407903",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "16",
+      "show_month": "Apr",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=407904",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "26",
+      "show_month": "May",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=424511",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "30",
+      "show_month": "Jun",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=424519",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Jul",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=422855",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Jul",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=422856",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "7",
+      "show_month": "Jul",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=421860",
+      "show_day_of_week": "Thu"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "9",
+      "show_month": "Jul",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=421861",
+      "show_day_of_week": "Sat"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "12",
+      "show_month": "Aug",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=427932",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "12",
+      "show_month": "Aug",
+      "show_time": "11:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=427933",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "2",
+      "show_month": "Sep",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=424186",
+      "show_day_of_week": "Fri"
+    },
+    {
+      "py/object": "ShowObject.show_time",
+      "show_day_num": "11",
+      "show_month": "Nov",
+      "show_time": "8:00 PM",
+      "is_sold_out": true,
+      "buy_url": "http://secondcitychicago.laughstub.com/event.cfm?cart&id=419268",
+      "show_day_of_week": "Fri"
+    }
+  ],
+  "ticketPriceRange": "$23.00"
+}

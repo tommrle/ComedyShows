@@ -1,0 +1,8 @@
+Download Image: 3 pts (DONE)
+Get 2 to 3 available dates: 3 pts
+
+--------
+Clean Up Text: 4 pts
+Get buy link for each available date: 2 pts
+Build Local DB to diff against: 7 pts
+Get all available dates and handle sold out: 7 pts
