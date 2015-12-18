@@ -1,6 +1,6 @@
 class show:
 
-	def __init__(self, buy_url, title, descrip, imageUrl, show_times, theater, ticket_price_range, uniqueShowTimes):
+	def __init__(self, buy_url, title, descrip, imageUrl, show_times, theater, ticket_price_range, uniqueShowTimes, showTimesFormatted):
 		self.buy_url = buy_url #unused atm
 		self.title = title
 		self.descrip = descrip
@@ -9,6 +9,7 @@ class show:
 		self.theater = theater
 		self.ticketPriceRange = ticket_price_range
 		self.uniqueShowTimes = uniqueShowTimes
+		self.showTimesFormatted = showTimesFormatted
 
 	def show_times_to_str(self):
 		full_string = ""
