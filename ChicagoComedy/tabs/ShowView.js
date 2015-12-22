@@ -10,6 +10,7 @@ var {
 } = React;
 
 var CalendarPicker = require('react-native-calendar-picker');
+var TestShow = require('../test_data/showObjectSample.json'); //Test
 
 var showView = React.createClass({
   getInitialState: function() {
@@ -19,6 +20,7 @@ var showView = React.createClass({
   },
   render: function(){
     var show = this.props.show;
+    var show = TestShow; //Test
     var imageUrl = 'http://localhost:8080/' + show.imageUrl;
     return (
       <View style={ styles.container }>
@@ -26,14 +28,14 @@ var showView = React.createClass({
         <Text style={ styles.title }>{ show.title }</Text>
         <Text>Theater: { show.theater }</Text>
         <Text>Description: { show.descrip }</Text>
-        <View style={ styles.button }>
+        <View style={ styles.buttonRow }>
           <TouchableHighlight style={ styles.button }>
-            <Text>Get Tickets</Text>
+            <Text style={ styles.buttonText }>Get Tickets</Text>
           </TouchableHighlight>
         </View>
         <CalendarPicker
           selectedDate = { this.state.date }
-          />
+          enabledDates = { show.showTimesFormatted }/>
       </View>
     );
   }
@@ -52,11 +54,21 @@ var styles = StyleSheet.create({
     fontWeight: 'bold'
   },
   buttonRow: {
-    alignItems: 'center'
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center'
+  },
+  buttonText: {
+    color: '#FFFFFF',
+    fontSize: 20,
   },
   button: {
-    height: 20,
-    alignItems: 'center',
+    justifyContent: 'center',
+    margin: 10,
+    borderWidth: 1,
+    borderRadius: 3,
+    borderColor: '#00aced',
+    backgroundColor: '#00aced',
   }
 });
 

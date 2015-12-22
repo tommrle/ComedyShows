@@ -18,6 +18,7 @@ var {
 } = React;
 
 var ShowView = require('./tabs/ShowView');
+var GetTickets = require('./tabs/GetTickets');
 
 var ChicagoComedyB = React.createClass({
   componentWillMount: function() {
@@ -93,7 +94,7 @@ var ChicagoComedy = React.createClass({
         initialRoute={
           {
             title: 'Chicago Comedy',
-            component: ShowView
+            component: GetTickets
           }
         } />
     );
