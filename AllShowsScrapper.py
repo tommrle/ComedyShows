@@ -11,6 +11,7 @@ import os.path
 import jsonpickle
 from bs4 import BeautifulSoup
 import re
+import sys
 
 
 CUR_PATH = "data/current/current.json"
@@ -40,19 +41,13 @@ def parse_date(show_time_html):
 	show_day_of_week = show_time_html.find(class_="tickets-single-show-date-day").get_text(strip=True)
 	show_month = show_time_html.find(class_="tickets-single-show-date-month").get_text(strip=True)
 	show_day_num = show_time_html.find(class_="tickets-single-show-date-date").get_text(strip=True)
+	show_month_int = datetime.strptime(show_month, "%b").month - 1;
 
 	for data in show_time_html.find_all('a'):
 		buy_url = data.get('href')
 		time = data.find(class_="tickets-single-show-link-time").get_text(strip=True)
 		show_datetime = datetime.strptime("2016 " + show_day_of_week + " " + show_day_num + " " + show_month + " " + time, "%Y %a %d %b %I:%M %p");
-		show_times_formatted.append( mktime(convert_date_to_proper_year(show_datetime).timetuple()) * 1000);
-		if data.find(class_="tickets-single-show-link-text") == "Buy Tickets":
-			is_sold_out = False
-			new_showobjects.append(show_time(show_day_of_week, show_month, show_day_num, time, is_sold_out, buy_url))
-		else:
-			is_sold_out = True
-			new_showobjects.append(show_time(show_day_of_week, show_month, show_day_num, time, is_sold_out, buy_url))
-	#return new_showobjects, 
+		show_times_formatted.append( ( mktime(convert_date_to_proper_year(show_datetime).timetuple()) * 1000, buy_url ));
 	return show_times_formatted
 
 def print_data():
@@ -99,12 +94,17 @@ def parse_show_objects_for_unqiue_show_times(show_times_list):
 
 tree = BeautifulSoup(page.content, "lxml")
 
-#See what each article looks like
-#print tree.find_all('article')[0].get_text("|", strip=True)
-#print tree.find_all('article')[0].prettify()
-
 all_shows = []
 all_articles = tree.find_all('article')
+
+if all_articles == []:
+	print "ERROR: Outputting tree"
+	print tree
+	print "Continuing in Test Mode"
+	tree = BeautifulSoup( open("data/test/pagesource.html", "r").read() , "lxml" )
+	all_articles = tree.find_all('article')
+#else:
+	#open("data/test/sample_page.json", 'w+').write(all_articles)
 
 for article in all_articles:
 	string_set = [text for text in article.stripped_strings]
