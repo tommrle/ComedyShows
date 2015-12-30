@@ -12,7 +12,7 @@ import jsonpickle
 from bs4 import BeautifulSoup
 import re
 import sys
-
+from scripts.CreateShowtimeCalendar import turnTupleIntoCalendar
 
 CUR_PATH = "data/current/current.json"
 page = requests.get('http://www.secondcity.com/shows/chicago/')
@@ -123,8 +123,9 @@ for article in all_articles:
 	local_url = download_image_to_img_dir(img_url, show_title)
 	ticket_price_range = get_price_range(show_times)
 	unqiue_show_times = parse_show_objects_for_unqiue_show_times(show_times)
+	show_time_cal = turnTupleIntoCalendar(show_times_formatted)
 	all_shows.append(show("fake", show_title, show_descrip, local_url, show_times, 
-												theater, ticket_price_range, unqiue_show_times, show_times_formatted))
+												theater, ticket_price_range, unqiue_show_times, show_times_formatted, show_time_cal))
 
 #print_data()
 load_cur()
