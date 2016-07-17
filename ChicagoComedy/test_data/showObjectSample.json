@@ -1,113 +1,1146 @@
 {
-  "py/object": "ShowObject.show",
-  "theater": "UP Comedy Club",
-  "title": "#DateMe: An OKCupid Experiment",
-  "imageUrl": "img/#DateMe: An OKCupid Experiment",
-  "uniqueShowTimes": [],
-  "buy_url": "fake",
-  "descrip": "\"Hilarious\" - The Real Chicago\r\n\r\n\"An authentic sense of heart\" - Chicago Reader...",
-  "show_times": [],
-  "ticketPriceRange": "",
-  "showTimesFormatted": [
-    1454637600000,
-    1454724000000,
-    1454734800000,
-    1454810400000,
-    1454821200000,
-    1454893200000,
-    1455328800000,
-    1455339600000,
-    1455415200000,
-    1455426000000,
-    1455498000000,
-    1455508800000,
-    1455847200000,
-    1455933600000,
-    1455944400000,
-    1456020000000,
-    1456030800000,
-    1456102800000,
-    1456452000000,
-    1456538400000,
-    1456549200000,
-    1456624800000,
-    1456635600000,
-    1456707600000,
-    1457056800000,
-    1457143200000,
-    1457154000000,
-    1457229600000,
-    1457240400000,
-    1457312400000,
-    1457661600000,
-    1457748000000,
-    1457758800000,
-    1457834400000,
-    1457845200000,
-    1457913600000,
-    1458262800000,
-    1458349200000,
-    1458360000000,
-    1458435600000,
-    1458446400000,
-    1458518400000,
-    1458867600000,
-    1458954000000,
-    1458964800000,
-    1459040400000,
-    1459051200000,
-    1459123200000,
-    1459472400000,
-    1459558800000,
-    1459569600000,
-    1459645200000,
-    1459656000000,
-    1459728000000,
-    1460077200000,
-    1460163600000,
-    1460174400000,
-    1460250000000,
-    1460260800000,
-    1460332800000,
-    1460682000000,
-    1460768400000,
-    1460779200000,
-    1460854800000,
-    1460865600000,
-    1460937600000,
-    1461286800000,
-    1461373200000,
-    1461384000000,
-    1461459600000,
-    1461470400000,
-    1461542400000,
-    1461891600000,
-    1461978000000,
-    1461988800000,
-    1462064400000,
-    1462075200000,
-    1462147200000,
-    1462496400000,
-    1462582800000,
-    1462593600000,
-    1462752000000,
-    1463101200000,
-    1463187600000,
-    1463198400000,
-    1463274000000,
-    1463284800000,
-    1463356800000,
-    1463706000000,
-    1463792400000,
-    1463803200000,
-    1463878800000,
-    1463889600000,
-    1463961600000,
-    1464310800000,
-    1464397200000,
-    1464408000000,
-    1464483600000,
-    1464494400000,
-    1464566400000
-  ]
-}
+    "py/object": "ShowObject.show",
+    "theater": "UP Comedy Club",
+    "title": "#DateMe: An OKCupid Experiment",
+    "imageUrl": "img/#DateMe: An OKCupid Experiment",
+    "descrip": "\"Hilarious\" - The Real Chicago\r\n\r\n\"An authentic sense of heart\" - Chicago Reader...",
+    "uniqueShowTimes": [],
+    "buy_url": "fake",
+    "nextShowTime": 1454637600000.0,
+    "show_times": [],
+    "showTimesFormatted": [
+      {
+        "py/tuple": [
+          1454637600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423176"
+        ]
+      },
+      {
+        "py/tuple": [
+          1454724000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423177"
+        ]
+      },
+      {
+        "py/tuple": [
+          1454734800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423178"
+        ]
+      },
+      {
+        "py/tuple": [
+          1454810400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423179"
+        ]
+      },
+      {
+        "py/tuple": [
+          1454821200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423180"
+        ]
+      },
+      {
+        "py/tuple": [
+          1454893200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423181"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455328800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423190"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455339600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423192"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455415200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423193"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455426000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423194"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455498000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423195"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455508800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423196"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455847200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423197"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455933600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423199"
+        ]
+      },
+      {
+        "py/tuple": [
+          1455944400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423204"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456020000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423201"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456030800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423207"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456102800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423208"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456452000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423210"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456538400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423211"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456549200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423213"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456624800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423212"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456635600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423214"
+        ]
+      },
+      {
+        "py/tuple": [
+          1456707600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423217"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457056800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423219"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457143200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423222"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457154000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423224"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457229600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423226"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457240400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423227"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457312400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423228"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457661600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423229"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457748000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423230"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457758800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423231"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457834400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423232"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457845200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423233"
+        ]
+      },
+      {
+        "py/tuple": [
+          1457913600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423234"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458262800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423235"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458349200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423236"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458360000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423241"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458435600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423238"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458446400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423244"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458518400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423246"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458867600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423248"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458954000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423249"
+        ]
+      },
+      {
+        "py/tuple": [
+          1458964800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423250"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459040400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423251"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459051200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423252"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459123200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423253"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459472400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423254"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459558800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423273"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459569600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423274"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459645200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423291"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459656000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423292"
+        ]
+      },
+      {
+        "py/tuple": [
+          1459728000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423255"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460077200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423264"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460163600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423275"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460174400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423276"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460250000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423293"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460260800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423294"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460332800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423256"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460682000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423265"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460768400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423277"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460779200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423278"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460854800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423295"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460865600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423296"
+        ]
+      },
+      {
+        "py/tuple": [
+          1460937600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423257"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461286800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423266"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461373200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423279"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461384000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423280"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461459600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423297"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461470400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423298"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461542400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423263"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461891600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423267"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461978000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423281"
+        ]
+      },
+      {
+        "py/tuple": [
+          1461988800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423282"
+        ]
+      },
+      {
+        "py/tuple": [
+          1462064400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423299"
+        ]
+      },
+      {
+        "py/tuple": [
+          1462075200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423300"
+        ]
+      },
+      {
+        "py/tuple": [
+          1462147200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423258"
+        ]
+      },
+      {
+        "py/tuple": [
+          1462496400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423268"
+        ]
+      },
+      {
+        "py/tuple": [
+          1462582800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423283"
+        ]
+      },
+      {
+        "py/tuple": [
+          1462593600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423284"
+        ]
+      },
+      {
+        "py/tuple": [
+          1462752000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423259"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463101200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423269"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463187600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423285"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463198400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423286"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463274000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423303"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463284800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423304"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463356800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423260"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463792400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423287"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463803200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423288"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463878800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423305"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463889600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423306"
+        ]
+      },
+      {
+        "py/tuple": [
+          1463961600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423261"
+        ]
+      },
+      {
+        "py/tuple": [
+          1464310800000.0,
+          "http://upcomedyclub.com/event.cfm?id=423271"
+        ]
+      },
+      {
+        "py/tuple": [
+          1464397200000.0,
+          "http://upcomedyclub.com/event.cfm?id=423289"
+        ]
+      },
+      {
+        "py/tuple": [
+          1464408000000.0,
+          "http://upcomedyclub.com/event.cfm?id=423290"
+        ]
+      },
+      {
+        "py/tuple": [
+          1464483600000.0,
+          "http://upcomedyclub.com/event.cfm?id=423307"
+        ]
+      },
+      {
+        "py/tuple": [
+          1464494400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423308"
+        ]
+      },
+      {
+        "py/tuple": [
+          1464566400000.0,
+          "http://upcomedyclub.com/event.cfm?id=423262"
+        ]
+      }
+    ],
+    "ticketPriceRange": "",
+    "showTimeCal": {
+      "2016": {
+        "1": {
+          "25": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423210"
+            ]
+          ],
+          "13": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423193"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423194"
+            ]
+          ],
+          "12": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423190"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423192"
+            ]
+          ],
+          "20": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423201"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423207"
+            ]
+          ],
+          "14": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423195"
+            ],
+            [
+              "10:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423196"
+            ]
+          ],
+          "19": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423199"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423204"
+            ]
+          ],
+          "18": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423197"
+            ]
+          ],
+          "28": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423217"
+            ]
+          ],
+          "26": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423211"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423213"
+            ]
+          ],
+          "27": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423212"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423214"
+            ]
+          ],
+          "5": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423177"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423178"
+            ]
+          ],
+          "4": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423176"
+            ]
+          ],
+          "7": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423181"
+            ]
+          ],
+          "6": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423179"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423180"
+            ]
+          ],
+          "21": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423208"
+            ]
+          ]
+        },
+        "3": {
+          "24": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423263"
+            ]
+          ],
+          "10": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423256"
+            ]
+          ],
+          "30": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423299"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423300"
+            ]
+          ],
+          "15": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423277"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423278"
+            ]
+          ],
+          "14": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423265"
+            ]
+          ],
+          "17": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423257"
+            ]
+          ],
+          "16": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423295"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423296"
+            ]
+          ],
+          "23": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423297"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423298"
+            ]
+          ],
+          "22": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423279"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423280"
+            ]
+          ],
+          "28": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423267"
+            ]
+          ],
+          "29": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423281"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423282"
+            ]
+          ],
+          "1": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423273"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423274"
+            ]
+          ],
+          "3": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423255"
+            ]
+          ],
+          "2": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423291"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423292"
+            ]
+          ],
+          "7": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423264"
+            ]
+          ],
+          "9": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423293"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423294"
+            ]
+          ],
+          "8": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423275"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423276"
+            ]
+          ],
+          "21": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423266"
+            ]
+          ]
+        },
+        "2": {
+          "11": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423230"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423231"
+            ]
+          ],
+          "10": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423229"
+            ]
+          ],
+          "13": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423234"
+            ]
+          ],
+          "12": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423232"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423233"
+            ]
+          ],
+          "20": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423246"
+            ]
+          ],
+          "17": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423235"
+            ]
+          ],
+          "25": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423249"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423250"
+            ]
+          ],
+          "19": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423238"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423244"
+            ]
+          ],
+          "18": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423236"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423241"
+            ]
+          ],
+          "31": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423254"
+            ]
+          ],
+          "6": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423228"
+            ]
+          ],
+          "26": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423251"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423252"
+            ]
+          ],
+          "3": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423219"
+            ]
+          ],
+          "27": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423253"
+            ]
+          ],
+          "5": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423226"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423227"
+            ]
+          ],
+          "4": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423222"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423224"
+            ]
+          ],
+          "24": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423248"
+            ]
+          ]
+        },
+        "4": {
+          "13": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423285"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423286"
+            ]
+          ],
+          "12": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423269"
+            ]
+          ],
+          "20": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423287"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423288"
+            ]
+          ],
+          "14": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423303"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423304"
+            ]
+          ],
+          "22": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423261"
+            ]
+          ],
+          "28": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423307"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423308"
+            ]
+          ],
+          "26": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423271"
+            ]
+          ],
+          "29": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423262"
+            ]
+          ],
+          "1": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423258"
+            ]
+          ],
+          "27": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423289"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423290"
+            ]
+          ],
+          "5": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423268"
+            ]
+          ],
+          "8": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423259"
+            ]
+          ],
+          "6": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423283"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423284"
+            ]
+          ],
+          "15": [
+            [
+              "07:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423260"
+            ]
+          ],
+          "21": [
+            [
+              "08:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423305"
+            ],
+            [
+              "11:00 PM",
+              "http://upcomedyclub.com/event.cfm?id=423306"
+            ]
+          ]
+        }
+      }
+    }
+  }
